@@ -1,17 +1,8 @@
-Binary Trees -
+#Binary Trees -
+    Binary trees are like linked lists in the way that they are nodes that are linked. But, with binary
+     trees, there is a root or a parent node and this node can be linked to 2 different nodes which are 
+     child nodes, those can then be linked to 2 more node each and so on and so forth. 
 
-    What is the purpose of the data structure?
+     The Big O notation is log(n) because it can rule out half of the information each time it searches. Because the smaller value is always on the left and the bigger value on the right.
 
-    What is the performance of the data structure (you will need to talk about big O notation)?
-
-    What kind of problems can be solved using the data structure?
-
-    How would the data structure be used in Python (in some cases you will need to discuss recursion)?
-
-    What kind of errors are common when using the data structure? 
-
-    A complete example of a problem solved using the data structure. The problem should be created by you and not be a copy of an existing problem.
-
-    A second problem (again created by you) which is given to the student of your tutorial to solve on their own. You need to provide a link to the solution.
-
-    Your tutorial must use the Python programming language.
+     To find a value in a binary tree, it might helo to use recursion, because it will cut the information in half and then go through it again and again while it gets smaller and smaller until it finds the correct value.
