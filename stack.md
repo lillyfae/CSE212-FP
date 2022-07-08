@@ -1,4 +1,6 @@
 # Stacks
+
+[Back to Welcome Page](https://github.com/lillyfae/CSE212-FP/blob/main/Welcome%20to%20my%20Project!.md)
     
     The way a stack works is first in, last out. A good way to visualize this is a stack of pancakes. When you add pancakes to the plate, 
     
@@ -268,3 +270,5 @@ def main():
 main()
 
 ```
+
+[Back to Welcome Page](https://github.com/lillyfae/CSE212-FP/blob/main/Welcome%20to%20my%20Project!.md)

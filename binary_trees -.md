@@ -1,4 +1,6 @@
-#Binary Trees -
+#Binary Trees 
+
+[Back to Welcome Page](https://github.com/lillyfae/CSE212-FP/blob/main/Welcome%20to%20my%20Project!.md)
 
     Binary trees are like linked lists in the way that they are nodes that are linked. But, with binary
 
@@ -16,3 +18,5 @@
      information in half and then go through it again and again while it gets smaller and smaller until 
      
      it finds the correct value.
+
+[Back to Welcome Page](https://github.com/lillyfae/CSE212-FP/blob/main/Welcome%20to%20my%20Project!.md)

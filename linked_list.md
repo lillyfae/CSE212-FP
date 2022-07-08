@@ -1,5 +1,7 @@
 #Linked list 
 
+[Back to Welcome Page](https://github.com/lillyfae/CSE212-FP/blob/main/Welcome%20to%20my%20Project!.md)
+
     The purpose of a linked list is to be able to store information in a way that order matters. A linked list has a head, tail, and 
     nodes in between. To keep the list in order, we will point the node to the node directly before it and directly behind it, except in
     the cases of the head and tail that will only point to one node each. The big O notation for this data structure is O(n) because to 
@@ -40,9 +42,9 @@
 
     Let's look at this linked list in diagram form:
 
-[Diagram 1](https://github.com/lillyfae/CSE212-FP/blob/main/linked_list_diadram1.png)
+![Diagram 1](https://github.com/lillyfae/CSE212-FP/blob/main/linked_list_diadram1.png)
 
-[Diagram 2](https://github.com/lillyfae/CSE212-FP/blob/main/linked_list_diagram2.png)
+![Diagram 2](https://github.com/lillyfae/CSE212-FP/blob/main/linked_list_diagram2.png)
 
 
     #Student Problem
@@ -145,6 +147,6 @@ linked_list.print_self()
 print()```
 
 
-
+[Back to Welcome Page](https://github.com/lillyfae/CSE212-FP/blob/main/Welcome%20to%20my%20Project!.md)
 
 
