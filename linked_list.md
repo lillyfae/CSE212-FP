@@ -54,9 +54,7 @@
     Netflix
     Hulu
     ESPN
-
-
-    This family is trying to cut down on monthly spending. They want to get rid of the most expensive streaming service. 
+ 
 
     What!? The office isn't on Netfilx anymore? This family wants to switch out Netflix for Peacock.
 

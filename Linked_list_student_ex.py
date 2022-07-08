@@ -25,15 +25,12 @@ class Linked_List:
         to 'new_value'.
         """
         current = self.head
-
-        if self.tail == self.head:
-            self.head = new_value
-            self.tail = new_value
         while current is not None:
             if current.name != old_value:
                 current = current.next
             elif current.name == old_value:
-                current.name = new_value
+                current.name = new_value.name
+                current.price = new_value.price
 
     def print_self(self):
         current = self.head
@@ -70,8 +67,8 @@ print()
 linked_list.print_self()
 print()
 
-peacock = Streaming_Service_Node("Peacock", 10.99)
-linked_list.replace("Netflix", "Peacock")
+peacock = Streaming_Service_Node("Peacock", 10.25)
+linked_list.replace("Netflix", peacock)
 
 print()
 linked_list.print_self()
