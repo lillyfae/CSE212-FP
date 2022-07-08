@@ -1,4 +1,4 @@
-#Linked list 
+# Linked list 
 
 [Back to Welcome Page](https://github.com/lillyfae/CSE212-FP/blob/main/Welcome%20to%20my%20Project!.md)
 
@@ -13,11 +13,11 @@
 
 
 
-#Video
+### Video
     https://www.youtube.com/watch?v=WwfhLC16bis&ab_channel=CSDojo
 
 
-#Example:
+## Example:
 
     Let's say I have 3 children living at home. Names are:
 
@@ -47,7 +47,7 @@
 ![Diagram 2](https://github.com/lillyfae/CSE212-FP/blob/main/linked_list_diagram2.png)
 
 
-    #Student Problem
+## Student Problem
 
     A family is trying to keep track of their streaming services and want to keep them in order of how much they cost a month.
 
