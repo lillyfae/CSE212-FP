@@ -40,7 +40,9 @@
 
     Let's look at this linked list in diagram form:
 
+[Diagram 1](https://github.com/lillyfae/CSE212-FP/blob/main/linked_list_diadram1.png)
 
+[Diagram 2](https://github.com/lillyfae/CSE212-FP/blob/main/linked_list_diagram2.png)
 
 
     #Student Problem
