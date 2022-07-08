@@ -1,11 +1,12 @@
-Welcome to my Project!
+#Welcome to my Project!
 
-Stephanie Guthrie
+##Stephanie Guthrie
 
-CSE 212 - section TBD
+##CSE 212 - section TBD
 
-Instructor - Zachariah Alvey
+###Instructor - Zachariah Alvey
 
+# Turtorial Subjects
 
 [Stacks](https://github.com/lillyfae/CSE212-FP/blob/main/stack.md)
 
