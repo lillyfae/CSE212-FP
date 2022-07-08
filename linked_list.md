@@ -14,7 +14,7 @@
 
 
 ### Video
-    https://www.youtube.com/watch?v=WwfhLC16bis&ab_channel=CSDojo
+[linked lists](https://www.youtube.com/watch?v=WwfhLC16bis&ab_channel=CSDojo)
 
 
 ## Example:

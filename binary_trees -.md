@@ -22,7 +22,7 @@
 
     To understand binary trees better and to see some real life applications of it, here is a video:
 
-    https://www.youtube.com/watch?v=6ysjqCUv3K4&ab_channel=CSDojo
+[binary search](https://www.youtube.com/watch?v=6ysjqCUv3K4&ab_channel=CSDojo)
 
 
  ### Traversing
