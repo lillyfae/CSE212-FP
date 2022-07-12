@@ -50,5 +50,13 @@
     binary can be balanced once more. 
 
 
+# Example:
+
+![Binary Tree Diagram](https://github.com/lillyfae/CSE212-FP/blob/main/binary_tree.png)
+
+## Student Example:
+
+
+
 
 [Back to Welcome Page](https://github.com/lillyfae/CSE212-FP/blob/main/Welcome%20to%20my%20Project!.md)

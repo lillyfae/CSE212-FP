@@ -22,4 +22,4 @@ Instructor - Zachariah Alvey
 
 [Linked lists solution](https://github.com/lillyfae/CSE212-FP/blob/main/Linked_list_student_ex.py)
 
-[Binary Solution](None)
+[Binary Solution](https://github.com/lillyfae/CSE212-FP/blob/main/binay_trees_solution.py)
