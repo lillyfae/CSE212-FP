@@ -63,7 +63,8 @@
     What!? The office isn't on Netfilx anymore? This family wants to switch out Netflix for Peacock.
 
 
-```class Linked_List:
+```
+ class Linked_List:
     def __init__(self):
         self.head = #Problem 1 what should the head be equal to to start?
         self.tail = None
@@ -86,7 +87,7 @@
 
     def replace(self, old_value, new_value):
         """
-        Searrch for all instances of 'old_value' and replace the value 
+        Search for all instances of     'old_value' and replace the value 
         to 'new_value'.
         """
         current = self.head
@@ -99,7 +100,7 @@
                 current = current.next
             elif current.name == old_value:
 
-            #Problem #2
+    #Problem #2
                 current.name = # Replace the old value with new value
 
     def print_self(self):
@@ -144,7 +145,8 @@ linked_list.replace("Netflix", "Peacock")
 
 print()
 linked_list.print_self()
-print()```
+print()
+ ```
 
 
 [Back to Welcome Page](https://github.com/lillyfae/CSE212-FP/blob/main/Welcome%20to%20my%20Project!.md)
